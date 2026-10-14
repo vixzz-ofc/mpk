@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "poll-1791981435631-mxldw9",
+    "question": "hai",
+    "options": [
+      "1",
+      "2"
+    ],
+    "targetKelas": "",
+    "answers": [],
+    "createdAt": "2026-10-14T12:37:15.631Z"
+  }
+]
