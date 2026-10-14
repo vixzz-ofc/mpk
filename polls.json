@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "poll-1791980614355-15gq52",
+    "question": "testing",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "targetKelas": "",
+    "answers": [],
+    "createdAt": "2026-10-14T12:23:34.355Z"
+  }
+]
