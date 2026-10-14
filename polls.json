@@ -23,7 +23,12 @@
       "ya"
     ],
     "targetKelas": "",
-    "answers": [],
+    "answers": [
+      {
+        "kelas": "9A",
+        "option": "hai"
+      }
+    ],
     "createdAt": "2026-10-14T12:40:54.714Z"
   }
 ]
