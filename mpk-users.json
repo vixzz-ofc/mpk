@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "username": "AdminSjone",
+      "password": "12719927",
+      "nama": "Admin",
+      "role": "Admin"
+    },
+    {
+      "username": "pipik",
+      "password": "ketuampk",
+      "nama": "pipik",
+      "role": "Admin"
+    },
+    {
+      "username": "diki",
+      "password": "wakilketua",
+      "nama": "diki",
+      "role": "Wakil Ketua"
+    },
+    {
+      "username": "taufiq",
+      "password": "sekretaris",
+      "nama": "taufiq",
+      "role": "Sekretaris"
+    },
+    {
+      "username": "amel",
+      "password": "sekretaris",
+      "nama": "amel",
+      "role": "sekretaris"
+    },
+    {
+      "username": "anindia",
+      "password": "bendahara",
+      "nama": "anindia",
+      "role": "bendahara"
+    },
+    {
+      "username": "tasya",
+      "password": "bendahara",
+      "nama": "tasya",
+      "role": "bendahara"
+    },
+    {
+      "username": "dicki",
+      "password": "ganteng",
+      "nama": "yangmulia",
+      "role": "raja"
+    },
+    {
+      "username": "fakhri",
+      "password": "ketuaosis",
+      "nama": "fahri",
+      "role": "osis"
+    }
+  ]
+}
