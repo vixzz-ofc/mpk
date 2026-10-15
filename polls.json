@@ -50,17 +50,5 @@
       }
     ],
     "createdAt": "2026-10-14T12:40:54.714Z"
-  },
-  {
-    "id": "poll-1792018665724-qy6bwp",
-    "question": "opik ganteng",
-    "options": [
-      "jelas",
-      "yoi",
-      "emang"
-    ],
-    "targetKelas": "",
-    "answers": [],
-    "createdAt": "2026-10-14T22:57:45.726Z"
   }
 ]
