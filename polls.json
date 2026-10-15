@@ -26,29 +26,5 @@
       }
     ],
     "createdAt": "2026-10-14T12:37:15.631Z"
-  },
-  {
-    "id": "poll-1791981654714-m2esjb",
-    "question": "testing",
-    "options": [
-      "hai",
-      "ya"
-    ],
-    "targetKelas": "",
-    "answers": [
-      {
-        "kelas": "9A",
-        "option": "hai"
-      },
-      {
-        "kelas": "9H",
-        "option": "ya"
-      },
-      {
-        "kelas": "9B",
-        "option": "ya"
-      }
-    ],
-    "createdAt": "2026-10-14T12:40:54.714Z"
   }
 ]
